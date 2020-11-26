@@ -1,0 +1,16 @@
+{
+"companyName": "Andy Kruth",
+"productName": "MolarMassDiscovery",
+"productVersion": "0.1",
+"dataUrl": "mmd.data.unityweb",
+"wasmCodeUrl": "mmd.wasm.code.unityweb",
+"wasmFrameworkUrl": "mmd.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
